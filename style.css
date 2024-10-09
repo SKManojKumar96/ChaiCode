@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  box-shadow: 5px 5px 15px #ffc107;
+}
+
+.card-container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 20px;
+  text-align: center;
+}
+
+.card .btn {
+  width: 100%;
+}
+
+.footer-container strong {
+  font-size: 20px;
+}
