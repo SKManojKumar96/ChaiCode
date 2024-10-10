@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body{
+  padding-top:70px;
+}
+
 .navbar {
   box-shadow: 5px 5px 15px #ffc107;
 }
